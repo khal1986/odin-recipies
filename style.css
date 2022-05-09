@@ -1,0 +1,25 @@
+
+a:visited{
+    color:black;
+}
+
+
+.cake {
+    color: red;
+    background-color: grey;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+.lemon {
+    color: black;
+    background-color: grey;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.strawberry {
+    color: black;
+    background-color: grey;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
